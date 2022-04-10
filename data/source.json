@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "price": 22.54,
+        "name": "SĒŅU",
+        "image": "https://cancan.lv/upload/products_pictures/thumb.Denu.png",
+        "description": "Šampinjoni, siers mocarella. Alergēni: piena produkti, glutēns."
+    },
+    {
+        "id": 2,
+        "price": 8.5,
+        "name": "ITĀĻU",
+        "image": "https://cancan.lv/upload/products_pictures/thumb.italiska NEW.png",
+        "description": "Cūkgaļas šķiņķis, siers mocarella. Alergēni: sezama sēklas, piena produkti, glutēns, rieksti, soja, selerija."
+    },
+    {
+        "id": 3,
+        "price": 10.23,
+        "name": "SIERA",
+        "image": "https://cancan.lv/upload/products_pictures/thumb.SIERA.png",
+        "description": "Siers mocarella. Alergēni: piena produkti, glutēns."
+    },
+    {
+        "id": 4,
+        "price": 11.35,
+        "name": "DRAUGU",
+        "image": "https://cancan.lv/upload/products_pictures/thumb.draugu NEW.png",
+        "description": "Vistas fileja, siers mocarella, šampinjoni, dilles. Alergēni: Piena produkti, glutēns."
+    }
+]
